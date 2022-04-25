@@ -1,6 +1,6 @@
 # Ejercicio1UnrealEngine
 
-#Trabajo grupal: Nivel básico con personaje
+Trabajo grupal: Nivel básico con personaje
 INTEGRANTES
 Laura Penagos
 
