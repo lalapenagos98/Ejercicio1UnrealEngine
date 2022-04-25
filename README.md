@@ -1,7 +1,7 @@
 # Ejercicio1UnrealEngine
 
 Trabajo grupal: Nivel básico con personaje
-INTEGRANTES
+INTEGRANTE
 Laura Penagos
 
 CONTROLES
